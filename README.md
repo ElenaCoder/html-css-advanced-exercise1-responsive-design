@@ -1,2 +1,1 @@
 # HTML_CSS_AdvancedExercise1_ResponsiveDesign
-# HTML_CSS_AdvancedExercise1_ResponsiveDesign
