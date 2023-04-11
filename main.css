@@ -134,17 +134,30 @@ section {
 
 /* FOOTER */
 footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-
+  color: var(--color-black);
+  display:flex;
+  justify-content: space-around;
+  padding: 1rem;
   background-color: rgb(5, 5, 5);
 }
+
 footer > p {
-  color: rgb(237, 248, 250);
+  color: rgb(187, 232, 241);
   max-width: 70%;
   margin-bottom: 20px;
   font-size: 1.2em;
+}
+
+.contact-link a,
+.contact-link {
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: rgb(187, 232, 241)
+}
+
+.contact-link a:hover {
+  text-decoration:underline;
 }
 /* // FOOTER */
 
